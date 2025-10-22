@@ -1,1 +1,3 @@
 # Arithmetic-Simulator
+
+  Bhagya Anand
